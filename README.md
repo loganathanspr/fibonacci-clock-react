@@ -1,5 +1,5 @@
 # fibonacci-clock-react
-Fibonacci Clock using React
+Fibonacci Clock - React implementation
 
 ## How to run
 
