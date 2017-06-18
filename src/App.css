@@ -1,0 +1,15 @@
+.time {
+  text-align: center;
+  font-size: 60px;
+}
+
+.date {
+  text-align: center;
+  font-size: 20px;
+  color: grey;
+  margin-top: -60px;
+}
+
+.container {
+  margin-top: 100px;
+}
